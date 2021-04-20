@@ -2,7 +2,7 @@
 let img;
 
 function preload () {
-  img = loadImage('../img/work2.jpeg');
+  img = loadImage('work2.jpeg');
 }
 
 function setup () {
